@@ -16,10 +16,10 @@
 }
 
 .no-webp .box__inner {
-  background: url("./box2.png") no-repeat center/contain;
+  background: url("./mmboxOpen.png") no-repeat center/contain;
 }
 .second-step .box__inner {
-  background: url("./box-paleta.png") no-repeat center/contain;
+  background: url("./mmboxOpenCart.png") no-repeat center/contain;
 }
 .box__inner {
   position: absolute;
@@ -106,7 +106,7 @@
 }
 
 .no-webp .box__inner {
-  background: url("./box2.png") no-repeat center/contain;
+  background: url("./mmboxOpen.png") no-repeat center/contain;
 }
 
 .box__inner {
@@ -118,7 +118,7 @@
 }
 
 .no-webp .box__front {
-  background: url("./box1.png") no-repeat center/contain;
+  background: url("./mmboxpng.png") no-repeat center/contain;
 }
 
 .box__front {
@@ -430,10 +430,10 @@
 }
 
 .box__inner {
-  background: url(/assets/mmboxOpen.png) no-repeat center/contain;
+  background: url(./assets/mmboxOpen.png) no-repeat center/contain;
 }
 
 .box__front {
-  background: url(/assets/mmboxpng.png) no-repeat center/contain;
+  background: url(./mmboxWebp.webp) no-repeat center/contain;
 }
 
