@@ -30,7 +30,7 @@
 }
 
 .no-webp .box__front {
-  background: url("/assets/mmboxpng.png") no-repeat center/contain;
+  background: url("./mmboxpng.png") no-repeat center/contain;
 }
 
 .box__front {
