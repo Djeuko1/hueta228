@@ -30,7 +30,7 @@
 }
 
 .no-webp .box__front {
-  background: url("./box1.png") no-repeat center/contain;
+  background: url("/assets/mmboxpng.png") no-repeat center/contain;
 }
 
 .box__front {
@@ -430,10 +430,10 @@
 }
 
 .box__inner {
-  background: url(./box2.png) no-repeat center/contain;
+  background: url(/assets/mmboxOpen.png) no-repeat center/contain;
 }
 
 .box__front {
-  background: url(./box1.png) no-repeat center/contain;
+  background: url(/assets/mmboxpng.png) no-repeat center/contain;
 }
 

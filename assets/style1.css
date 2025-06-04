@@ -217,7 +217,7 @@ p {
     width: 182px;
     height: 55px;
 
-    opacity: 0;
+    opacity: 1;
 
     animation-name: hh;
     animation-duration: 2.2s;

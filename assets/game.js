@@ -24,7 +24,7 @@ $(".boxes .box").click(function (e) {
         curentBox.addClass("active");
         curentBox.addClass("noclick");
         curentBox.find(".box__front").css("display", "none");
-        curentBox.find(".box__inner").css("background-image", "url('./assets/box2.webp')");
+        curentBox.find(".box__inner").css("background-image", "url('./assets/mmboxOpen.png')");
         setTimeout(function () {
             $("#fonGrey").css("display", "block");
             $(".two_modal_icon").fadeIn();
@@ -37,7 +37,7 @@ $(".boxes .box").click(function (e) {
         curentBox.addClass("active");
         curentBox.addClass("noclick");
         curentBox.find(".box__front").css("display", "none");
-        curentBox.find(".box__inner").css("background-image", "url('./assets/box-paleta.png')");
+        curentBox.find(".box__inner").css("background-image", "url('./assets/mmboxOpenCart.png')");
         setTimeout(function () {
             $("#two_modal").css("display", "block");
             $(".two_modal_icon_Two").fadeIn();
